@@ -1,2 +1,2 @@
 # MikaOS
-MikaOS is a basic and simple OS for small device
+Mika Office System is a small Operating System with 80s style
